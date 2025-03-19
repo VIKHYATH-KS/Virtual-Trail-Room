@@ -1,0 +1,390 @@
+[
+    {
+        "id": 1,
+        "name": "Retro Sunglasses",
+        "price": "2250.00",
+        "images": [
+            "images/Accessories/Retro-sunglasses_03.webp"
+        ],
+        "category": "Accessories",
+        "description": "These Retro Sunglasses offer a vintage-inspired look with modern protection. Perfect for adding a stylish edge to any outfit."
+    },
+    {
+        "id": 2,
+        "name": "Miley Triangle Hair Scarf",
+        "price": "2200.00",
+        "images": [
+            "images/Accessories/scrf1.webp",
+            "images/Accessories/scrf2.webp",
+            "images/Accessories/scrf3.webp"
+        ],
+        "category": "Accessories",
+        "isTrending":true,
+        "description": "The Miley Triangle Hair Scarf is a versatile accessory that can be styled in multiple ways. Made from soft, breathable fabric."
+    },
+    {
+        "id": 3,
+        "name": "Platform Canvas Sneakers",
+        "price": "770.00",
+        "images": [
+            "images/Accessories/Platform-Canvas-Sneakers_03.webp"
+        ],
+        "category": "Accessories",
+        "description": "Platform Canvas Sneakers provide both comfort and height. Ideal for casual outings and adding a trendy touch to your look."
+    },
+    {
+        "id": 4,
+        "name": "Quilted Heeled Mule Sandal",
+        "price": "1280.00",
+        "images": [
+            "images/Accessories/Quilted-Heeled-Mule-Sandal_01.webp"
+        ],
+        "category": "Accessories",
+        "description": "The Quilted Heeled Mule Sandal combines elegance and comfort. Perfect for dressing up any outfit with a touch of sophistication."
+    },
+    {
+        "id": 5,
+        "name": "Ultimate  Bandeau Tops",
+        "price": "2200.00",
+        "images": [
+            "images/woman/w1.png"
+        ],
+        "category": "Woman",
+        "isTrending": true,
+        "description": "Ultimate Crop Bandeau Tops are ideal for layering or wearing on their own. Made with soft, stretchy fabric for a comfortable fit."
+    },
+    {
+        "id": 6,
+        "name": "Adilette Slide Sandal",
+        "price": "1500.00",
+        "images": [
+            "images/Accessories/Adilette-Slide-Sandal_01.webp",
+            "images/Accessories/Adilette-Slide-Sandal_color_01.webp"
+        ],
+        "category": "Accessories",
+        "description": "Adilette Slide Sandals are perfect for casual wear. They feature a comfortable footbed and easy slip-on design."
+    },
+    {
+        "id": 7,
+        "name": "Pieces Full Sleeve Sweater",
+        "price": "1000.00",
+        "images": [
+            "images/woman/w2.png"
+        ],
+        "category": "Woman",
+        "isTrending": true,
+        "description": "The Pieces Full Sleeve Sweater is a cozy and stylish addition to your wardrobe. Made from soft, breathable material."
+    },
+    {
+        "id": 8,
+        "name": "Leapord Print Waist Coat",
+        "price": "2100.00 - 2400.00",
+        "images": [
+            "images/woman/w3.png"
+        ],
+        "category": "Woman",
+        "isTrending": true,
+        "description": "Simona Ribbed Cardigan is perfect for layering. Its ribbed texture and versatile design make it a must-have for any season."
+    },
+    {
+        "id": 9,
+        "name": "Oversized Trench Coat",
+        "price": "2570.00",
+        "images": [
+            "images/woman/w5.png"
+        ],
+        "category": "Woman",
+        "isTrending": true,
+        "description": "The Oversized coat in grey offers a relaxed fit and vibrant design. Ideal for casual and comfortable wear."
+    },
+    {
+        "id": 10,
+        "name": "Classic Oversized Jacket",
+        "price": "1580.00",
+        "images": [
+            "images/woman/w6.png"
+        ],
+        "category": "Woman",
+        "description": "This Classic Oversized black Bomber jacket is perfect for a cozy and relaxed look. Made from high-quality material for added comfort."
+    },
+    {
+        "id": 11,
+        "name": "Straw Floppy Hat",
+        "price": "2540.00",
+        "images": [
+            "images/Accessories/straw-floppy-hat_03.webp"
+        ],
+        "category": "Accessories",
+        "description": "The Straw Floppy Hat is a stylish accessory for sunny days. It offers great sun protection while adding a chic touch to your outfit."
+    },
+    {
+        "id": 12,
+        "name": "Cat-Eye Glasses 20257",
+        "price": "1860.00",
+        "images": [
+            "images/Accessories/sunglasses1.webp"
+        ],
+        "category": "Accessories",
+        "description": "Cat-Eye Glasses 20257 feature a classic design with a modern twist. Perfect for adding a sophisticated touch to any look."
+    },
+    {
+        "id": 13,
+        "name": "Pride Sport Hip Pack",
+        "price": "3090.00",
+        "images": [
+            "images/Bags/Pride-Sport-Hip-Pack-_04.webp",
+            "images/Bags/Pride-Sport-Hip-Pack-_03.webp"
+        ],
+        "category": "Bags",
+        "description": "The Pride Sport Hip Pack is perfect for carrying essentials hands-free. Features a vibrant design and multiple compartments for convenience."
+    },
+    {
+        "id": 14,
+        "name": "Dance Bag Nylon",
+        "price": "1800.00",
+        "images": [
+            "images/Bags/p27-3_7e6d6ca6-5882-4c64-a166-577d894b0ac3.webp",
+            "images/Bags/p27-1_1bcb95c6-a3da-4de5-b15e-ec08d4cb84b9.webp"
+        ],
+        "category": "Bags",
+        "description": "The Dance Bag Nylon is lightweight and durable, ideal for carrying dance gear or gym essentials. Features a sleek design and ample storage space."
+    },
+    {
+        "id": 15,
+        "name": "Sleeve-less Check Waist Coat",
+        "price": "1880.00",
+        "images": [
+            "images/woman/w7.png"
+        ],
+        "category": "Woman",
+        "description": "The Sleeve-less yellow waist coat is a versatile piece that can be dressed up or down. Made from soft, comfortable material."
+    },
+    {
+        "id": 16,
+        "name": "Flannel Shirt In Chocolate Brown",
+        "price": "1940.00",
+        "images": [
+            "images/woman/w8.png"
+        ],
+        "category": "Woman",
+        "description": "This flannel shirt In Chocolate Brown is perfect for keeping warm in style. Made from soft, stretchy fabric for a comfortable fit."
+    },
+    {
+        "id": 17,
+        "name": "Red Midi Skirt",
+        "price": "1480.00",
+        "images": [
+            "images/woman/w9.png"
+        ],
+        "category": "Woman",
+        "description": "The Red Midi skirt is perfect for casual and party wear. Made from breathable fabric for maximum comfort."
+    },
+    {
+        "id": 18,
+        "name": "Oversized Pink Sweatshirt",
+        "price": "1470.00",
+        "images": [
+            "images/woman/w10.png"
+        ],
+        "category": "Woman",
+        "description": "This Oversized Pink Sweatshirt combines comfort and style. Perfect for a relaxed, casual look."
+    },
+    {
+        "id": 19,
+        "name": "White Tee",
+        "price": "1980.00",
+        "images": [
+            "images/man/shirt2.png"  
+        ],
+        "category": "Man",
+        "description": "The Hoodie In Blue offers both style and comfort. Made from high-quality material for a cozy fit."
+    },
+    {
+        "id": 20,
+        "name": "Charcoal Grey   Chunky Hoodie",
+        "price": "2660.00",
+        "images": [
+            "images/man/shirt3.png"
+        ],
+        "category": "Man",
+        "isTrending":true,
+        "description": "This Jacket With Hood In Stone provides excellent warmth and style. Ideal for layering during cooler weather."
+    },
+    {
+        "id": 21,
+        "name": "Slim Green Flannel Shirt ",
+        "price": "2100.00",
+        "images": [
+            "images/man/shirt4.png"
+        ],
+        "category": "Man",
+        "description": "The Slim green flannel shirt is perfect for Casual occasions. Made from high-quality fabric for a sharp, professional look."
+    },
+    {
+        "id": 22,
+        "name": "Tapered Blue Jeans",
+        "price": "1060.00",
+        "images": [
+            "images/man/pants3.png"
+        ],
+        "category": "Man",
+        "description": "Tapered blue jean Pants In offer a modern fit and stylish design. Perfect for  casual wear."
+    },
+    {
+        "id": 23,
+        "name": "Tapered Camel pant",
+        "price": "1750.00",
+        "images": [
+            "images/man/pants2.png"
+        ],
+        "category": "Man",
+        "description": "The Tapered camel pant features a unique settle design. Ideal for adding a touch of style to your wardrobe."
+    },
+    {
+        "id": 24,
+        "name": "Cargo Pant",
+        "price": "1350.00",
+        "images": [
+            "images/man/pants4.png"
+        ],
+        "category": "Man",
+        "description": "This Color Block Bucket Hat is perfect for a trendy look. It offers great sun protection and a stylish design."
+    },
+    {
+        "id": 25,
+        "name": "Linen Black Pant",
+        "price": "1520.00",
+        "images": [
+            "images/man/pants1.png"
+        ],
+        "category": "Man",
+        "description": "Black Linen pant for your prefect formal and semi-formal Occasion."
+    },
+    {
+        "id": 26,
+        "name": "Butterfly Charm Hoop Earrings",
+        "price": "1710.00",
+        "images": [
+            "images/Jewelry/Butterfly-Charm-Hoop-Earring_03.webp",
+            "images/Jewelry/Butterfly-Charm-Hoop-Earring_02.webp"
+        ],
+        "category": "Jewelry",
+        "isTrending":true,
+        "description": "Butterfly Charm Hoop Earrings add a whimsical touch to any outfit. Made with high-quality materials for lasting wear."
+    },
+    {
+        "id": 27,
+        "name": "Row Clear Cz Ring",
+        "price": "1980.00",
+        "images": [
+            "images/Jewelry/ROW-CLEAR-CZ-RING_03.webp",
+            "images/Jewelry/ROW-CLEAR-CZ-RING_02.webp"
+        ],
+        "category": "Jewelry",
+        "description": "The Row Clear Cz Ring is a stunning piece of jewelry. Features sparkling cubic zirconia for a touch of elegance."
+    },
+    {
+        "id": 28,
+        "name": "Pin Clear Cz Ring",
+        "price": "1100.00",
+        "images": [
+            "images/Jewelry/PIN-CLEAR-CZ-RING_01.webp",
+            "images/Jewelry/PIN-CLEAR-CZ-RING_02.webp"
+        ],
+        "category": "Jewelry",
+        "description": "Pin Clear Cz Ring is a stylish accessory. Made with high-quality materials and sparkling cubic zirconia."
+    },
+    {
+        "id": 29,
+        "name": "Gold Tone Clear Cz Ring",
+        "price": "1060.00",
+        "images": [
+            "images/Jewelry/GOLD-TONE-CLEAR-CZ_03.webp",
+            "images/Jewelry/GOLD-TONE-CLEAR-CZ_04.webp"
+        ],
+        "category": "Jewelry",
+        "description": "The Gold Tone Clear Cz Ring adds a touch of luxury to any outfit. Features beautiful cubic zirconia set in gold-tone metal."
+    },
+    {
+        "id": 30,
+        "name": "Gold Tone Star & Moon Bracelet",
+        "price": "1660.00",
+        "images": [
+            "images/Jewelry/Diamante-Butterfly-Necklace_01.webp"
+        ],
+        "category": "Jewelry",
+        "description": "The Gold Tone Star & Moon Bracelet is a celestial-inspired piece. Perfect for adding a touch of elegance to your look."
+    },
+    {
+        "id": 31,
+        "name": "Clear Cz Floral Letter Necklace",
+        "price": "1950.00",
+        "images": [
+            "images/Jewelry/CLEAR-CZ-FLORAL-LETTER-NECKLACE_01.webp",
+            "images/Jewelry/CLEAR-CZ-FLORAL-LETTER-NECKLACE_02.webp"
+        ],
+        "category": "Jewelry",
+        "description": "The Clear Cz Floral Letter Necklace is a personalized piece. Features sparkling cubic zirconia in a floral design."
+    },
+    {
+        "id": 32,
+        "name": "Adjustable Bowline Necklace",
+        "price": "1860.00",
+        "images": [
+            "images/Jewelry/ADJUSTABLE-BOWLINE-NECKLACE_01.webp"
+        ],
+        "category": "Jewelry",
+        "description": "The Adjustable Bowline Necklace is versatile and stylish. Can be worn at different lengths for a custom look."
+    },
+    {
+        "id": 33,
+        "name": "White Midi Top ",
+        "price": "1990.00",
+        "images": [
+            "images/woman/w4.png"
+        ],
+        "isTrending":true,
+        "category": "Woman",
+        "description": "The white top Bleached offers a stylish and trendy look with its sun-bleached finish. Perfect for layering over casual outfits, this jacket is made from high-quality denim and features a comfortable fit. Ideal for adding a touch of edge to your wardrobe."
+    },
+    {
+        "id": 34,
+        "name": "Oversized Black jacket",
+        "price": "2860.00",
+        "images": [
+            "images/man/s1.png"
+        ],
+        "category": "Man",
+        "description": "The Oversized black jacket is versatile and stylish. Can be worn at different occasions for a custom look."
+    },
+    {
+        "id": 35,
+        "name": "Brown quater zip sweater",
+        "price": "1860.00",
+        "images": [
+            "images/man/s2.png"
+        ],
+        "category": "Man",
+        "description": "The brown quater zip sweater is prefect to style for any occasion to stand out."
+    },
+    {
+        "id": 36,
+        "name": "Grey plain tee",
+        "price": "960.00",
+        "images": [
+            "images/man/s3.png"
+        ],
+        "category": "Man",
+        "description": "The Plain grey tee shirt is simple and varsatile,Can be worn for a custom look."
+    },
+    {
+        "id": 37,
+        "name": "Full Sleeve sand wool Sweater",
+        "price": "1760.00",
+        "images": [
+            "images/man/s4.png"
+        ],
+        "category": "Man",
+        "description": "The Pieces Full Sleeve Sweater is a cozy and stylish addition to your wardrobe. Made from soft, breathable material."
+    }
+]
